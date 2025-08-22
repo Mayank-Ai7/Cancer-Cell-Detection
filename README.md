@@ -53,12 +53,12 @@ It includes:
 2. Install dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r req.txt
    ```
 
 ---
 
-## 📦 requirements.txt
+## 📦 req.txt
 
 ```
 tensorflow
